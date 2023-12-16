@@ -1,1 +1,1 @@
-## TCC DevOps AWS and Azure Terraform
+## DevOps Easy Learning AWS and Azure Terraform

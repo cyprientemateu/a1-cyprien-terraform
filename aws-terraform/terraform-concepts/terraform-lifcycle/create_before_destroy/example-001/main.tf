@@ -32,7 +32,7 @@ resource "aws_instance" "example" {
     "cloud_provider" = "aws"
   }
 
-  lifecycle {
-    create_before_destroy = true
-  }
+  # lifecycle {
+  #   create_before_destroy = true
+  # }
 }
